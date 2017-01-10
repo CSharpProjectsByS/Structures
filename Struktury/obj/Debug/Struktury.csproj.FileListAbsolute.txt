@@ -1,0 +1,9 @@
+D:\Programowanie\VisualProjects\Struktury\Struktury\bin\Debug\Struktury.exe.config
+D:\Programowanie\VisualProjects\Struktury\Struktury\bin\Debug\Struktury.exe
+D:\Programowanie\VisualProjects\Struktury\Struktury\bin\Debug\Struktury.pdb
+D:\Programowanie\VisualProjects\Struktury\Struktury\obj\Debug\Struktury.csprojResolveAssemblyReference.cache
+D:\Programowanie\VisualProjects\Struktury\Struktury\obj\Debug\Struktury.Form1.resources
+D:\Programowanie\VisualProjects\Struktury\Struktury\obj\Debug\Struktury.Properties.Resources.resources
+D:\Programowanie\VisualProjects\Struktury\Struktury\obj\Debug\Struktury.csproj.GenerateResource.Cache
+D:\Programowanie\VisualProjects\Struktury\Struktury\obj\Debug\Struktury.exe
+D:\Programowanie\VisualProjects\Struktury\Struktury\obj\Debug\Struktury.pdb
